@@ -1,0 +1,278 @@
+* {
+    box-sizing: border-box;
+  }
+  
+/* Header */
+
+header {
+    height: 165px;
+  }
+
+.left-nav{ 
+    height: 100px;
+    width: 33.3333%;
+    border-bottom: 1px solid lightgray;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+.left-list {
+    margin-top: 40px;
+  }
+
+.left-list li {
+    list-style-type: none;
+    float: left;
+    margin-right: 34px;
+    font-size: 18px;
+  }
+
+.left-list li a {
+    text-decoration: none;
+    color: black;
+  }
+
+.middle-logo {
+    height: 165px;
+    width: 33.3333%;
+    float: left;
+  }
+
+.middle-list {
+  margin-top: 5px;
+}
+
+.middle-list li {
+  list-style-type: none;
+}
+
+.bigA {
+  fill: #e7131a;
+  text-align: center;
+  margin-left: 33%;
+}
+
+.atlantic {
+  fill: black;
+  text-align: center;
+  margin-left: 15%;
+}
+
+.right-nav {
+  height: 100px;
+  width: 33.3333%;
+  border-bottom: 1px solid lightgray;
+  float: left;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.right-list {
+  margin-top: 40px;
+  float: right;
+}
+
+.right-list li {
+  list-style-type: none;
+  float: left;
+  margin-right: 30px;
+  font-size: 18px;
+}
+
+.right-list li a {
+  text-decoration: none;
+  color: black;
+}
+
+.subscribe {
+  background: red;
+  color: white;
+  font-size: 18px;
+}
+
+/* Home */
+
+.home {
+  height: 500px;
+}
+
+.left-home {
+  height: 500px;
+  width: 25%;
+  float: left;
+}
+
+.left-home section {
+  width: 100%;
+  height: 250px;
+}
+
+.left-home img {
+  height: 120px;
+  width: 100%;
+}
+
+.left-home figure figcaption {
+  font-size: 8px;
+}
+
+.left-home h3 {
+  font-size: 20px;
+  margin-left: 40px;
+  font-weight: 600;
+  font-family: adobe-garamond-pro, serif;
+}
+
+.left-home h4 {
+  font-size: 14px;
+  margin-left: 40px;
+  font-family: adobe-garamond-pro, serif;
+}
+
+figure .lady {
+  height: 120px;
+}
+
+figure .nikki {
+  margin-top: 25px;
+}
+
+.left-home .fig-h4 {
+  border-bottom: solid lightgray 1px;
+  padding-bottom: 10px;
+}
+
+.middle-home {
+  height: 500px;
+  width: 50%;
+  border-left: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+  float: left;
+}
+
+.middle-home section {
+  width: 100%;
+  height: 500px;
+}
+
+.middle-home figure {
+  margin-top: 40px;
+}
+
+.middle-home img {
+  height: 300px;
+  width: 80%;
+  margin-left: 88px;
+}
+
+.middle-home figure figcaption {
+  font-size: 8px;
+  margin-left: 88px;
+}
+
+.middle-home h2 {
+ font-size: 28px;
+ text-align: center;
+ margin-top: -15px;
+ font-family: adobe-garamond-pro, serif;
+}
+
+.middle-home h3 {
+  font-size: 18px;
+  font-weight: 400;
+  text-align: center;
+  font-family: adobe-garamond-pro, serif;
+}
+
+.middle-home h4 {
+  font-size: 14px;
+  text-align: center;
+  font-family: adobe-garamond-pro, serif;
+}
+
+.right-home {
+  height: 500px;
+  width: 25%;
+  float: left;
+}
+
+.right-home section {
+  width: 70%;
+  height: 100px;
+  margin-left: 15px;
+}
+
+.right-home img {
+  height: 86px;
+  width: 86px;
+  margin-left: 360px;
+  margin-top: 20px;
+}
+
+.right-home h3 {
+  font-size: 20px;
+  margin-top: -80px;
+  font-family: adobe-garamond-pro, serif;
+}
+
+.right-home h4 {
+  font-size: 14px;
+  font-family: adobe-garamond-pro, serif;
+}
+
+.r1 h4 {
+  border-bottom: 1px solid lightgrey;
+  padding-bottom: 8px;
+}
+
+.r2 h4 {
+  border-bottom: 1px solid lightgrey;
+  padding-bottom: 16px;
+}
+
+.r3 h4 {
+  border-bottom: 1px solid lightgrey;
+  padding-bottom: 16px;
+}
+
+/* Lower */
+
+.lower {
+  height: 250px;
+}
+
+.lower section {
+  height: 250px;
+  width: 25%;
+  border-top: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+  float: left;
+}
+
+.lower img {
+  height: 90px;
+  width: 98%;
+  margin-top: -10px;
+}
+
+.lower figcaption {
+  font-size: 8px;
+}
+
+.lower h3 {
+  font-size: 18px;
+  font-family: adobe-garamond-pro, serif;
+  margin-left: 40px;
+}
+
+.lower p {
+  font-size: 16px;
+  font-family: adobe-garamond-pro, serif;
+  margin-left: 40px;
+}
+
+.lower h4 {
+  font-size: 14px;
+  font-family: adobe-garamond-pro, serif;
+  margin-left: 40px;
+}
